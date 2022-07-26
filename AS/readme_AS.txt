@@ -1,0 +1,5 @@
+En este repositorio se encuentra la resolución de los ejercicios entregables de la materia Aprendizaje Supervisado.
+Dividimos la solución en 3 notebooks para no agrupar tanta información en una sola. 
+En cada notebook se puede ver tanto la resolución de cada ejercicio como la explicación y conclusión alcanzada.
+
+Grupo 25: Luis Federico Yurovich, Macarena Taié Mirón, Manuel Sosa y Elena Rufeil Fiori.
